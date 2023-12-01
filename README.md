@@ -5,6 +5,12 @@
 
 - 🔭 I’m currently working on [sand-simulator](https://github.com/jeekpark/sand-simulator)
 - 42Seoul cadet (2022.11.07~)
+- doff'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
+  > Hyundai Motor Company, Brand archive, design<br>
+  > LG electronics, Brand design [MADE IN CHANGWON]<br>
+  > Simone, Brand archive, brand design<br>
+  > FORTUNE KOREA, Magazine cover design, cover photo<br>
+  > Yoon Dongju Memorial Hall, Yonsei Univ. Book design
 - Graphic designer (2018~)
 - Photographer (2018~)
 
