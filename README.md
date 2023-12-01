@@ -4,7 +4,9 @@
 
 
 - 🔭 I’m currently working on [sand-simulator](https://github.com/jeekpark/sand-simulator)
-- ♟️ Also working on [simple-gravity]()
+- 42Seoul cadet (2022.11.07~)
+- Graphic designer (2018~)
+- Photographer (2018~)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +34,14 @@
   </a>
   <a href="https://developer.nvidia.com/directx" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/ko/0/01/Directx9.png" alt="directx" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="27"/>
+  </a>
+  <a href="http://processing.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="processing" width="40" height="40"/>
+  </a>
+  <a href="http://p5js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
   </a>
 </p>
