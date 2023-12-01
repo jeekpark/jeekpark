@@ -29,4 +29,7 @@
   <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="40" height="40"/>
   </a>
+  <a href="https://developer.nvidia.com/directx" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/ko/0/01/Directx9.png" alt="directx" width="40" height="40"/>
+  </a>
 </p>
