@@ -7,7 +7,7 @@
 - 🚀 Also working on [lunar-lander](https://github.com/jeekpark/lunar-lander)
 - 42Seoul cadet (2022.11.07~)
 - doff'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
-  > Hyundai Motor Company, Brand archive, design<br>
+  > Hyundai Motor Company, Brand archive, design [*****]<br>
   > LG electronics, Brand design [MADE IN CHANGWON]<br>
   > KT, Brand design, invertisement, [Beautiful new world]<br>
   > Simone, Brand archive, brand design<br>
