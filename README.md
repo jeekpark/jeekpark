@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [sand-simulator](https://github.com/jeekpark/sand-simulator)
+- 🔭 I’m currently working on [image-post-processing](https://github.com/jeekpark/image-post-processing)
 - 🚀 Also working on [lunar-lander](https://github.com/jeekpark/lunar-lander)
 - 42Seoul cadet (2022.11.07~)
 - doff'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
