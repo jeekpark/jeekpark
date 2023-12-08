@@ -28,7 +28,7 @@
 - Physics • Math • Social science
 - Music • Games • Anime • Code • Art • Photography
 
-<h2 align="left">Languages and Tools: software</h3>
+<h3 align="left">Languages and Tools: software</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" alt="bash" width="40" height="40"/>
