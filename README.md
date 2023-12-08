@@ -6,13 +6,11 @@
 - 🔭 I’m currently working on [image-post-processing](https://github.com/jeekpark/image-post-processing)
 - 🚀 Also working on [lunar-lander](https://github.com/jeekpark/lunar-lander)
 
-## EDUCATION
+### EDUCATION
 - 42Seoul, Learner (2022.11.07~)
 - KUAD, Photographic art (2019~2019)
 
-## WORK EXPERIENCE & ACTIVITIES
-- Fourlines Company, founder (2023.12~)
-- ERTE, co-founder (2023.4~)
+### WORK EXPERIENCE & ACTIVITIES
 - 'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
   > Hyundai Motor Company, Brand archive, design [*****]<br>
   > LG electronics, Brand design [MADE IN CHANGWON]<br>
@@ -25,10 +23,10 @@
 - Blue Narae Co.,Ltd., game & AR, Planning Department, designer (2018~2019)
 - Ramidus (Gyeonggi Village Education Community), robotics arcademy, founder (2016)
 
-## INTERESTS
+### INTERESTS
 - Debating*
 - Physics • Math • Social science
-- Music • Games • Anime • Code • Art
+- Music • Games • Anime • Code • Art • Photography
 
 <h2 align="left">Languages and Tools: software</h3>
 <p align="left">
@@ -67,17 +65,17 @@
   </a>
 </p>
 
-## Languages and Tools: etc..
+### Languages and Tools: etc..
 - EXPERT*
-  - Phase One Capture One 
   - Adobe Photoshop
   - Adobe Lightroom Classic
-  - Adobe Indesign
   - Color Management System
   - Digital Printing
+  - Photograpy, Studio lighting
+  - Capture One 
+- Adobe Indesign
 - Adobe Illustration
 - Adobe Premiere Pro
-
 - Autodesk Maya
 - Blender
 - The Foundry Nuke
