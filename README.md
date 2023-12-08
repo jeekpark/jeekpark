@@ -5,18 +5,32 @@
 
 - 🔭 I’m currently working on [image-post-processing](https://github.com/jeekpark/image-post-processing)
 - 🚀 Also working on [lunar-lander](https://github.com/jeekpark/lunar-lander)
-- 42Seoul cadet (2022.11.07~)
-- doff'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
+
+## EDUCATION
+- 42Seoul, Learner (2022.11.07~)
+- KUAD, Photographic art (2019~2019)
+
+## WORK EXPERIENCE & ACTIVITIES
+- Fourlines Company, founder (2023.12~)
+- ERTE, co-founder (2023.4~)
+- 'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
   > Hyundai Motor Company, Brand archive, design [*****]<br>
   > LG electronics, Brand design [MADE IN CHANGWON]<br>
   > KT, Brand design, invertisement, [Beautiful new world]<br>
   > Simone, Brand archive, brand design<br>
   > FORTUNE KOREA, Magazine cover design, cover photo<br>
-- Graphic designer (2018~)
-- Photographer (2018~)
+- NEW EYE GROUP, comprehensive art team (2021~2022)
+- DADA, Freelance photographer (2020~2022)
+- Hae-yum (Gyeonggi Village Education Community), robotics arcademy, instructor. (2019)
+- Blue Narae Co.,Ltd., game & AR, Planning Department, designer (2018~2019)
+- Ramidus (Gyeonggi Village Education Community), robotics arcademy, founder (2016)
 
+## INTERESTS
+- Debating*
+- Physics • Math • Social science
+- Music • Games • Anime • Code • Art
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools: software</h3>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" alt="bash" width="40" height="40"/>
@@ -52,3 +66,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
   </a>
 </p>
+
+## Languages and Tools: etc..
+- EXPERT*
+  - Phase One Capture One 
+  - Adobe Photoshop
+  - Adobe Lightroom Classic
+  - Adobe Indesign
+  - Color Management System
+  - Digital Printing
+- Adobe Illustration
+- Adobe Premiere Pro
+
+- Autodesk Maya
+- Blender
+- The Foundry Nuke
+- Mbed
+- Ableton
