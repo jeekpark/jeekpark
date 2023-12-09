@@ -67,16 +67,10 @@
 
 ### Languages and Tools: etc..
 - EXPERT*
-  - Adobe Photoshop
-  - Adobe Lightroom Classic
-  - Color Management System
-  - Digital Printing
+  - Adobe Photoshop • Lightroom Classic
+  - Color Management System • Digital Printing
   - Photograpy, Studio lighting
   - Capture One 
-- Adobe Indesign
-- Adobe Illustration
-- Adobe Premiere Pro
-- Autodesk Maya
-- Blender
-- The Foundry Nuke
+- Adobe Indesign • Illustration • Premiere Pro
+- Autodesk Maya • The Foundry Nuke • Blender
 - Ableton
