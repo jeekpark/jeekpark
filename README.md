@@ -79,5 +79,4 @@
 - Autodesk Maya
 - Blender
 - The Foundry Nuke
-- Mbed
 - Ableton
