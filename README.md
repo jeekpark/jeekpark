@@ -17,7 +17,6 @@
   > KT, Brand design, invertisement, [Beautiful new world]<br>
   > Simone, Brand archive, brand design<br>
   > FORTUNE KOREA, Magazine cover design, cover photo<br>
-- NEW EYE GROUP, comprehensive art team (2021~2022)
 - DADA, Freelance photographer (2020~2022)
 - Hae-yum (Gyeonggi Village Education Community), robotics arcademy, instructor. (2019)
 - Blue Narae Co.,Ltd., game & AR, Planning Department, designer (2018~2019)
