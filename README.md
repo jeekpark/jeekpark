@@ -1,7 +1,9 @@
 <h1 align="center">jeekpark</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
-[](https://leetcard.jacoblin.cool/jeekpark?site=cn)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jeekpark?ext=heatmap" alt="Leetcode Stats">
+</p>
 
 
 - 🔭 I’m currently working on [image-post-processing](https://github.com/jeekpark/image-post-processing)
