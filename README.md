@@ -2,7 +2,7 @@
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeekpark?ext=heatmap" alt="Leetcode Stats">
+  <img src="https://leetcard.jacoblin.cool/jeekpark?ext=contest" alt="Leetcode Stats">
 </p>
 
 
