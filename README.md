@@ -1,5 +1,6 @@
-<h1 align="center">무엇이든 고쳐드립니다. 개발자 jeekpark입니다.</h1>
-<h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
+<h1 align="left">🎯 무엇이든 고쳐드립니다</h1>
+<h1 align="left">개발자 jeekpark입니다!</h1>
+<h3 align="left">Critical thinking, logical thinking, creative thinking.</h3>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jeekpark?ext=contest" alt="Leetcode Stats">
