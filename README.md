@@ -1,14 +1,7 @@
-<h1 align="left">🎯 무엇이든 고쳐드립니다</h1>
-<h1 align="left">개발자 jeekpark입니다!</h1>
-<h3 align="left">Critical thinking, logical thinking, creative thinking.</h3>
+<h1 align="center">🎯 무엇이든 고쳐드립니다</h1>
+<h2 align="center">개발자 jeekpark입니다</h1>
+<h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jeekpark?ext=contest" alt="Leetcode Stats">
-</p>
-
-
-- 🔭 I’m currently working on [image-post-processing](https://github.com/jeekpark/image-post-processing)
-- 🚀 Also working on [lunar-lander](https://github.com/jeekpark/lunar-lander)
 
 ### EDUCATION
 - 42Seoul, Learner (2022.11.07~)
@@ -32,6 +25,7 @@
 - Music • Games • Anime • Code • Art • Photography
 
 <h3 align="left">Languages and Tools: software</h3>
+<h4 align="left">Speciality</h4>
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" alt="bash" width="40" height="40"/>
@@ -41,7 +35,10 @@
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+  </a>
+</p>
+<h4 align="left">Subsidary</h4>
+<p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> 
   </a> 
@@ -54,9 +51,6 @@
   <a href="https://www.sfml-dev.org" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" alt="sfml" width="40" height="40"/> 
   </a> 
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="40" height="40"/>
-  </a>
   <a href="https://developer.nvidia.com/directx" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/ko/0/01/Directx9.png" alt="directx" width="40" height="40"/>
   </a>
@@ -71,7 +65,8 @@
   </a>
 </p>
 
-### Languages and Tools: etc..
+<h3 align="left">Etc skills</h3>
+
 - EXPERT*
   - Adobe Photoshop • Lightroom Classic • Capture One 
   - Color Management System • Digital Printing
