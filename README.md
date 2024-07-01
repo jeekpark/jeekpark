@@ -2,6 +2,12 @@
 <h2 align="center">개발자 jeekpark입니다</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
+### Project
+[IRC(Chat Server Program)](https://github.com/jeekpark/GameRC-IRC-Server)
+
+[Ray Casting](https://github.com/jeekpark/42Seoul-cub3D)
+
+[DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
 ### EDUCATION
 - 42Seoul, Learner (2022.11.07~)
