@@ -14,7 +14,7 @@
 - KUAD, Photographic art (2019~2019)
 
 ### WORK EXPERIENCE & ACTIVITIES
-- 'n company, Brand Advertising Design Team Leader (2020.10~2022.11)
+- 'n company, Brand Advertising Design Lead (2020.10~2022.11)
   > Hyundai Motor Company, Brand archive, design [*****]<br>
   > LG electronics, Brand design [MADE IN CHANGWON]<br>
   > KT, Brand design, invertisement, [Beautiful new world]<br>
