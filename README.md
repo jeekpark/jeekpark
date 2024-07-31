@@ -11,7 +11,7 @@
 
 ### EDUCATION
 - KNOU, Computer Science (2024~)
-- ecole 42(42Seoul), Learner (2022.11.07~)
+- ecole 42(42Seoul), Computer Science, Learner (2022.11.07~)
 - KUAD, Photographic art (2019~2019)
 
 ### WORK EXPERIENCE & ACTIVITIES
