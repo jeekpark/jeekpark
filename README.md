@@ -10,7 +10,8 @@
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
 ### EDUCATION
-- 42Seoul, Learner (2022.11.07~)
+- KNOU, Computer Science (2024~)
+- ecole 42(42Seoul), Learner (2022.11.07~)
 - KUAD, Photographic art (2019~2019)
 
 ### WORK EXPERIENCE & ACTIVITIES
