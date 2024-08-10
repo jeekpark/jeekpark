@@ -3,11 +3,13 @@
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
 ### Project
-[IRC(Chat Server Program)](https://github.com/jeekpark/GameRC-IRC-Server)
+[IRC 서버, C++98, BSD 기반 소켓 프로그래밍](https://github.com/jeekpark/GameRC-IRC-Server)
 
-[Ray Casting](https://github.com/jeekpark/42Seoul-cub3D)
+[Ray Casting, C99](https://github.com/jeekpark/42Seoul-cub3D)
 
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
+
+[Win API 기반 자체 게임 엔진](https://github.com/jeekpark/JeekparkEngine-Windows-API)
 
 ### EDUCATION
 - KNOU, Computer Science (2024~)
