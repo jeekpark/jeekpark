@@ -11,8 +11,6 @@
 
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
-[Win API 기반 자체 게임 엔진](https://github.com/jeekpark/JeekparkEngine-Windows-API)
-
 ### EDUCATION
 - KNOU, Computer Science (2024~)
 - École 42(42Seoul), Computer Science, Learner (2022.11.07~)
