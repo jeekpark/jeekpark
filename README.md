@@ -60,9 +60,6 @@
   <a href="http://processing.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" alt="processing" width="40" height="40"/>
   </a>
-  <a href="http://p5js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/P5.js_icon.svg" alt="p5js" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Etc skills</h3>
