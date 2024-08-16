@@ -36,9 +36,6 @@
 <h3 align="left">Languages and Tools: software</h3>
 <h4 align="left">Speciality</h4>
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/gnu_bash/images/66582b8e-a291-4a1b-b89c-76628277a33b.svg" alt="bash" width="40" height="40"/>
-  </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
@@ -48,9 +45,6 @@
 </p>
 <h4 align="left">Subsidary</h4>
 <p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/> 
-  </a> 
   <a href="https://lua.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> 
   </a> 
