@@ -1,5 +1,5 @@
 <h1 align="center">🎯 무엇이든 고쳐드립니다</h1>
-<h2 align="center">개발자 jeekpark입니다</h1>
+<h2 align="center">함께 일하기 좋은 개발자 jeekpark입니다</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
 ### Project
