@@ -5,7 +5,7 @@
 ### Project
 [GameRC(BSD UNIX 기반 IRC 서버)](https://github.com/jeekpark/GameRC-IRC-Server)
 
-[Ray Casting(C99, MiniLibX)](https://github.com/jeekpark/42Seoul-cub3D)
+[Ray Casting(C99, Grapihcs)](https://github.com/jeekpark/42Seoul-cub3D)
 
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
