@@ -3,7 +3,7 @@
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
 ### Project
-[GameRC(BSD UNIX 기반 IRC 서버)](https://github.com/jeekpark/GameRC-IRC-Server)
+[GameRC(BSD UNIX 기반 IRC 서버, 소켓 프로그래밍)](https://github.com/jeekpark/GameRC-IRC-Server)
 
 [Ray Casting(C99, 그래픽스)](https://github.com/jeekpark/42Seoul-cub3D)
 
