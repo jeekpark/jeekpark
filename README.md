@@ -13,7 +13,7 @@
 - KNOU, Computer Science (2024.09~)
 - École 42(42Seoul), Computer Science, Member (2024.07.30~)
 - École 42(42Seoul), Computer Science, Learner (2022.11.07~2024.07.30)
-- KUAD, Photographic art (2019~2019)
+- KUAD, Photographic arts (2019~2019)
 
 ### WORK EXPERIENCE & ACTIVITIES
 - 'n company, Brand Advertising Design Lead (2020.10~2022.11)
