@@ -32,6 +32,9 @@
 - 그래픽스, 폰노이만 구조의 아름다움
 - 음악 • 게임 • 애니 • 코드 • 사진
 
+요즘 관심사: 듀얼센스(플스5컨트롤러), VR 기술
+
+
 <h3 align="left">Languages and Tools: software</h3>
 <h4 align="left">Speciality</h4>
 <p align="left">
