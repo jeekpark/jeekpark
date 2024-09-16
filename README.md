@@ -2,7 +2,7 @@
 <h2 align="center">🎯 무엇이든 고쳐드립니다</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
-### Project
+### 프로젝트
 [GameRC(BSD UNIX 기반 IRC 서버, 소켓 프로그래밍)](https://github.com/jeekpark/GameRC-IRC-Server)
 
 [Ray Casting(C99, 그래픽스)](https://github.com/jeekpark/42Seoul-cub3D)
@@ -10,28 +10,27 @@
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
 [Smart Object Pool(모던 C++, unique_ptr을 이용한 자동반납 오브젝트풀)](https://github.com/jeekpark/SmartObjectPool)
+
 ### EDUCATION
 - KNOU, Computer Science (2024.09~)
 - École 42(42Seoul), Computer Science, Member (2024.07.30~)
 - École 42(42Seoul), Computer Science, Learner (2022.11.07~2024.07.30)
-- KUAD, Photographic arts (2019~2019)
+- KUAD, Photographic Arts (2019~2019)
 
 ### WORK EXPERIENCE & ACTIVITIES
-- 'n company, Brand Advertising Design Lead (2020.10~2022.11)
-  > Hyundai Motor Company, Brand archive, design [*****]<br>
-  > LG electronics, Brand design [MADE IN CHANGWON]<br>
-  > KT, Brand design, invertisement, [Beautiful new world]<br>
-  > Simone, Brand archive, brand design<br>
-  > FORTUNE KOREA, Magazine cover design, cover photo<br>
-- DADA, Freelance photographer (2020~2022)
-- Hae-yum (Gyeonggi Village Education Community), robotics arcademy, instructor. (2019)
-- Blue Narae Co.,Ltd., game & AR, Planning Department, designer (2018~2019)
-- Ramidus (Gyeonggi Village Education Community), robotics arcademy, founder (2016)
+- 'n company, 광고브랜드디자인팀, 디자이너, 팀장 (2020.10~2022.11)
+  > 현대자동차그룹, Brand Archive [xxxxx]<br>
+  > LG전자, Brand Archive [MADE IN CHANGWON]<br>
+  > KT, Brand Design [Beautiful new world]<br>
+  > Simone, Brand Archive [xxxxx]<br>
+  > FORTUNE KOREA, 매거진 커버 작업, 커버 사진<br>
+- 혜윰 (경기마을교육공동체), 방과후 로봇코딩(아두이노) 강사. (2019)
+- (주)블루나래, 교육용 게임 제작, Planning Department, designer (2018~2019)
 
 ### INTERESTS
-- Debating*
-- Physics • Math • Social science
-- Music • Games • Anime • Code • Art • Photography
+- 기술 토론, 기술 설명, 기술 피드백*
+- 그래픽스, 폰노이만 구조의 아름다움
+- 음악 • 게임 • 애니 • 코드 • 사진
 
 <h3 align="left">Languages and Tools: software</h3>
 <h4 align="left">Speciality</h4>
