@@ -9,6 +9,7 @@
 
 [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 
+[Smart Object Pool(모던 C++, unique_ptr을 이용한 자동반납 오브젝트풀)](https://github.com/jeekpark/SmartObjectPool)
 ### EDUCATION
 - KNOU, Computer Science (2024.09~)
 - École 42(42Seoul), Computer Science, Member (2024.07.30~)
