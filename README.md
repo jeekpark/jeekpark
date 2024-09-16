@@ -45,7 +45,7 @@
 <h4 align="left">Subsidary</h4>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="35" height="40"/> 
   </a> 
   <a href="https://lua.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> 
