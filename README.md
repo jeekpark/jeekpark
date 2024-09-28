@@ -7,6 +7,7 @@
 - [Ray Casting(C99, 그래픽스, 레이케스팅 기법)](https://github.com/jeekpark/42Seoul-cub3D)
 - [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 - [Smart Object Pool(모던 C++, unique_ptr을 이용한 자동반납 오브젝트풀)](https://github.com/jeekpark/SmartObjectPool)
+- [SPACE PONG (실시간 웹 게임, 바닐라JS, 장고, P2P 통신)](https://github.com/space-pong/SpacePong)
 
 ### EDUCATION
 - KNOU, Computer Science (2024.09~)
