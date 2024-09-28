@@ -29,8 +29,6 @@
 - 그래픽스, 폰노이만 구조의 아름다움
 - 음악 • 게임 • 애니 • 코드 • 사진
 
-요즘 관심사: 듀얼센스(플스5컨트롤러), VR 기술
-
 
 <h3 align="left">Languages and Tools: software</h3>
 <h4 align="left">Speciality</h4>
@@ -47,6 +45,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="35" height="40"/> 
   </a> 
+  <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jsfoundation/jsfoundation-icon.svg" alt="js" width="35" height="40"/> 
+  </a>
   <a href="https://lua.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" width="40" height="40"/> 
   </a> 
