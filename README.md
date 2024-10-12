@@ -2,6 +2,9 @@
 <h2 align="center">🎯 무엇이든 고쳐드립니다</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
+### 프로젝트 (Rust)
+- [Voxel Engine (wgpu, 윈도우/맥/웹 크로스플랫폼 복셀 엔진)](https://github.com/ft-vox)
+
 ### 프로젝트 (C/C++)
 - [GameRC(BSD UNIX 기반 IRC 서버, 소켓 프로그래밍)](https://github.com/jeekpark/GameRC-IRC-Server)
 - [Ray Casting(C99, 그래픽스, 레이케스팅 기법)](https://github.com/jeekpark/42Seoul-cub3D)
