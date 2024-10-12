@@ -3,7 +3,7 @@
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
 ### 프로젝트 (Rust)
-- [Voxel Engine (wgpu, 윈도우/맥/웹 크로스플랫폼 복셀 엔진)](https://github.com/ft-vox)
+- [진행중: Voxel Engine (wgpu, 윈도우/맥/웹 크로스플랫폼 복셀 엔진)](https://github.com/ft-vox)
 
 ### 프로젝트 (C/C++)
 - [GameRC(BSD UNIX 기반 IRC 서버, 소켓 프로그래밍)](https://github.com/jeekpark/GameRC-IRC-Server)
