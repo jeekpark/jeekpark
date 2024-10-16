@@ -2,6 +2,8 @@
 <h2 align="center">🎯 무엇이든 고쳐드립니다</h1>
 <h3 align="center">Critical thinking, logical thinking, creative thinking.</h3>
 
+<img src="https://github.com/jeekpark/jeekpark/blob/main/image_wide.jpg">
+
 ### 프로젝트 (Rust)
 - [진행중: Voxel Engine (wgpu, 윈도우/맥/웹 크로스플랫폼 복셀 엔진)](https://github.com/ft-vox)
 
