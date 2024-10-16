@@ -48,6 +48,15 @@
 </p>
 <h4 align="left">Subsidary</h4>
 <p align="left">
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-vertical.svg" alt="rust" width="35" height="40"/> 
+  </a> 
+  <a href="https://www.wgpu.rs" target="_blank" rel="noreferrer"> 
+    <img src="https://wgpu.rs/logo.min.svg" alt="wgpu" width="35" height="40"/> 
+  </a> 
+  <a href="https://developer.nvidia.com/directx" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/ko/0/01/Directx9.png" alt="directx" width="40" height="40"/>
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="35" height="40"/> 
   </a> 
@@ -60,9 +69,6 @@
   <a href="https://www.sfml-dev.org" target="_blank" rel="noreferrer"> 
       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" alt="sfml" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.nvidia.com/directx" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/ko/0/01/Directx9.png" alt="directx" width="40" height="40"/>
-  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="27"/>
   </a>
