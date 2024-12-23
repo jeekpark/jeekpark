@@ -18,7 +18,6 @@
 - [SPACE PONG (실시간 웹 게임, 바닐라JS, 장고, P2P 통신)](https://github.com/space-pong/SpacePong)
 
 ### EDUCATION
-- KNOU, Computer Science (2024.09~)
 - École 42(42Seoul), Computer Science, Member (2024.07.30~)
 - École 42(42Seoul), Computer Science, Learner (2022.11.07~2024.07.30)
 - KUAD, Photographic Arts (2019~2019)
