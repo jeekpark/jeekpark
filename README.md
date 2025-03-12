@@ -33,7 +33,8 @@
 ### 경력 - 그래픽 디자인, 사진
 - 개인 컨설팅(2024~)
   > 스튜디오 세팅, 촬영 교육, 조명 교육
-- 'n company, 광고브랜드디자인팀, 디자이너, 팀장 (2020.10~2022.11)
+- 주식회사 앤컴퍼니('n company), 임원(감사), (2022.04~2025.03)
+- 주식회사 앤컴퍼니('n company), 광고브랜드디자인팀, 디자이너, 팀장 (2020.10~2022.11)
   > 현대자동차그룹, Brand Archive [xxxxx]<br>
   > LG전자, Brand Archive [MADE IN CHANGWON]<br>
   > KT, Brand Design [Beautiful new world]<br>
