@@ -4,34 +4,49 @@
 
 <img src="https://github.com/jeekpark/jeekpark/blob/main/image_wide.jpg">
 
-### 프로젝트 (Rust)
-- [진행중: Minecraft: Rust-WebGPU Edition (wgpu, 크로스플랫폼 복셀 엔진)](https://github.com/ft-vox)
-
-### 프로젝트 (C/C++)
+### 개인프로젝트
+- [진행중: Minecraft: Rust-WebGPU Edition (Rust, wgpu, 복셀 엔진)](https://github.com/ft-vox)
 - [GameRC(RFC 1459 명세의 IRC 채팅 서버. BSD기반 UNIX의 kqueue 소켓 프로그래밍. TCP/IP. I/O 멀티플렉싱)](https://github.com/jeekpark/GameRC-IRC-Server)
 - [Ray Casting(C99, 그래픽스, 레이케스팅 기법)](https://github.com/jeekpark/42Seoul-cub3D)
 - [Smart Object Pool(모던 C++, unique_ptr을 이용한 자동반납 오브젝트풀)](https://github.com/jeekpark/SmartObjectPool)
 - [Whine Shell(쉘 프로그램. OS 커널, Lexical 분석, Tokenization, System Call, Multiprocess Pipes(IPC), File Discriptor)]()
-
-### 프로젝트 (웹)
 - [DualSence.js(플스5 컨트롤러 라이브러리)](https://github.com/jeekpark/DualSense.js)
 - [SPACE PONG (실시간 웹 게임, 바닐라JS, 장고, P2P 통신)](https://github.com/space-pong/SpacePong)
 
-### EDUCATION
-- École 42(42Seoul), Computer Science, Member (2024.07.30~)
-- École 42(42Seoul), Computer Science, Learner (2022.11.07~2024.07.30)
-- KUAD, Photographic Arts (2019~2019)
 
-### WORK EXPERIENCE & ACTIVITIES
-- 'n company, 광고브랜드디자인팀, 디자이너, 팀장 (2020.10~2022.11)
+
+### 경력 - 소프트웨어 엔지니어링
+- 창업성장기술개발사업(디딤돌R&D), 풀스택 웹/앱 개발, (2025.01~)
+  > '쇼핑스' 라이브 커머스 웹/어플 서비스 풀스택 개발 (React, Vue, Node.js, MySQL, Android, iOS, AWS)<br>
+  > AI 모델(YOLOv8)을 이용해 제품 자동 인식 및 등록 시스템 개발<br>
+  > 라이브 스트리밍 딜레이 개선 (15~30초 -> 0.3초로 개선)<br>
+- 대한성서공회, 한국성서연구소, 데이터 분석 및 가공 (2024.08~2024.12)
+  > 성경 관주주석 데이터를 분석하여 200만 줄 규모의 XML 데이터로 변환 및 구조화하는 프로젝트를 주도함.<br>
+  > 테이터 파싱 및 가공을 통해 체계적인 데이터 구조를 설계하고 효율적인 데이터 검색과 활용을 가능하게 함.<br>
+### 경력 - 소프트웨어 교육
+- 개인 과외 (2025~)
+  > 중고등학생 대상 개인 과외<br>
+  > C언어, CS 역량 강화, 폰 노이만 구조의 원리 교육<br>
+- 혜윰 (경기마을교육공동체), 방과후 로봇코딩 강사. (2019)
+  > 고등학생 대상 C/C++, 아두이노, 피지컬 컴퓨팅 교육
+
+### 경력 - 그래픽 디자인, 사진
+- 개인 컨설팅(2024~)
+  > 스튜디오 세팅, 촬영 교육, 조명 교육
+- 주식회사 앤컴퍼니('n company), 임원(감사), (2022.04~2025.03)
+  > 업력 32년차 패션광고, 기업이미지광고 회사의 법인 전환 초기 임원<br>
+  > 감사 업무, 디자인/사진/영상/편집 솔루션 어드바이스
+- 앤컴퍼니('n company), 광고브랜드디자인팀, 디자이너, 팀장 (2020.10~2022.11)
   > 현대자동차그룹, Brand Archive [xxxxx]<br>
   > LG전자, Brand Archive [MADE IN CHANGWON]<br>
   > KT, Brand Design [Beautiful new world]<br>
   > Simone, Brand Archive [xxxxx]<br>
   > FORTUNE KOREA, 매거진 커버 작업, 커버 사진<br>
-- 혜윰 (경기마을교육공동체), 방과후 로봇코딩(아두이노) 강사. (2019)
 - (주)블루나래, 교육용 게임 제작, Planning Department, designer (2018~2019)
-
+### EDUCATION
+- École 42(42Seoul), Computer Science, Member (2024.07.30~)
+- École 42(42Seoul), Computer Science, Learner (2022.11.07~2024.07.30)
+- KUAD, Photographic Arts (2019~2019)
 ### INTERESTS
 - 기술 토론, 기술 설명, 피드백*
 - 그래픽스, 폰노이만 구조의 아름다움
